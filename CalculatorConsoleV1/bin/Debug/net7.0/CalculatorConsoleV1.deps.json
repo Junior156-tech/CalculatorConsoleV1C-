@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CalculatorConsoleV1/1.0.0": {
+        "runtime": {
+          "CalculatorConsoleV1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculatorConsoleV1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

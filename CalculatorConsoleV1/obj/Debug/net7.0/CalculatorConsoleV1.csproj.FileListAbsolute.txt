@@ -1,0 +1,14 @@
+C:\Users\junio\source\repos\CalculatorConsoleV1\CalculatorConsoleV1\bin\Debug\net7.0\CalculatorConsoleV1.exe
+C:\Users\junio\source\repos\CalculatorConsoleV1\CalculatorConsoleV1\bin\Debug\net7.0\CalculatorConsoleV1.deps.json
+C:\Users\junio\source\repos\CalculatorConsoleV1\CalculatorConsoleV1\bin\Debug\net7.0\CalculatorConsoleV1.runtimeconfig.json
+C:\Users\junio\source\repos\CalculatorConsoleV1\CalculatorConsoleV1\bin\Debug\net7.0\CalculatorConsoleV1.dll
+C:\Users\junio\source\repos\CalculatorConsoleV1\CalculatorConsoleV1\bin\Debug\net7.0\CalculatorConsoleV1.pdb
+C:\Users\junio\source\repos\CalculatorConsoleV1\CalculatorConsoleV1\obj\Debug\net7.0\CalculatorConsoleV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\source\repos\CalculatorConsoleV1\CalculatorConsoleV1\obj\Debug\net7.0\CalculatorConsoleV1.AssemblyInfoInputs.cache
+C:\Users\junio\source\repos\CalculatorConsoleV1\CalculatorConsoleV1\obj\Debug\net7.0\CalculatorConsoleV1.AssemblyInfo.cs
+C:\Users\junio\source\repos\CalculatorConsoleV1\CalculatorConsoleV1\obj\Debug\net7.0\CalculatorConsoleV1.csproj.CoreCompileInputs.cache
+C:\Users\junio\source\repos\CalculatorConsoleV1\CalculatorConsoleV1\obj\Debug\net7.0\CalculatorConsoleV1.dll
+C:\Users\junio\source\repos\CalculatorConsoleV1\CalculatorConsoleV1\obj\Debug\net7.0\refint\CalculatorConsoleV1.dll
+C:\Users\junio\source\repos\CalculatorConsoleV1\CalculatorConsoleV1\obj\Debug\net7.0\CalculatorConsoleV1.pdb
+C:\Users\junio\source\repos\CalculatorConsoleV1\CalculatorConsoleV1\obj\Debug\net7.0\CalculatorConsoleV1.genruntimeconfig.cache
+C:\Users\junio\source\repos\CalculatorConsoleV1\CalculatorConsoleV1\obj\Debug\net7.0\ref\CalculatorConsoleV1.dll
